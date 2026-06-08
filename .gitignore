@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.chroma/
+data/corpus/*
+!data/corpus/.gitkeep
+evals/results/*
+!evals/results/.gitkeep
+.DS_Store
+.pytest_cache/

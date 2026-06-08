@@ -1,0 +1,16 @@
+entity,attribute,value,source
+SRCNN,year_published,2014,arxiv:1501.00092
+SRCNN,benchmark_dataset,Set5,arxiv:1501.00092
+SRCNN,architecture,3-layer CNN,arxiv:1501.00092
+SRGAN,year_published,2017,arxiv:1609.04802
+SRGAN,loss,perceptual+adversarial,arxiv:1609.04802
+ESRGAN,year_published,2018,arxiv:1809.00219
+ESRGAN,backbone,RRDB,arxiv:1809.00219
+Real-ESRGAN,year_published,2021,arxiv:2107.10833
+SwinIR,year_published,2021,arxiv:2010.01073
+SwinIR,architecture,Swin Transformer,arxiv:2010.01073
+FRVSR,year_published,2018,arxiv:1812.02898
+FRVSR,paradigm,recurrent video SR,arxiv:1812.02898
+BasicVSR,year_published,2021,arxiv:2002.06378
+HAT,year_published,2022,arxiv:2205.04437
+VRT,year_published,2022,arxiv:2206.02146

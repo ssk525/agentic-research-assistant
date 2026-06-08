@@ -1,0 +1,17 @@
+[
+	{"arxiv_id": "1501.00092", "title": "Image Super-Resolution Using Deep Convolutional Networks (SRCNN)"},
+	{"arxiv_id": "1511.04587", "title": "Accurate Image Super-Resolution Using Very Deep Convolutional Networks (VDSR)"},
+	{"arxiv_id": "1609.04802", "title": "Photo-Realistic Single Image Super-Resolution Using a GAN (SRGAN)"},
+	{"arxiv_id": "1707.02921", "title": "Enhanced Deep Residual Networks for Single Image Super-Resolution (EDSR)"},
+	{"arxiv_id": "1807.02758", "title": "Image Super-Resolution Using Very Deep Residual Channel Attention Networks (RCAN)"},
+	{"arxiv_id": "1809.00219", "title": "ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks"},
+	{"arxiv_id": "1903.10082", "title": "Second-order Attention Network for Single Image Super-Resolution (SAN)"},
+	{"arxiv_id": "2010.01073", "title": "SwinIR: Image Restoration Using Swin Transformer"},
+	{"arxiv_id": "2107.10833", "title": "Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data"},
+	{"arxiv_id": "2205.04437", "title": "Activating More Pixels in Image Super-Resolution Transformer (HAT)"},
+	{"arxiv_id": "1611.05250", "title": "Real-Time Video Super-Resolution with Spatio-Temporal Networks (VESPCN)"},
+	{"arxiv_id": "1812.02898", "title": "Frame-Recurrent Video Super-Resolution (FRVSR)"},
+	{"arxiv_id": "2002.06378", "title": "BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond"},
+	{"arxiv_id": "2104.13371", "title": "BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment"},
+	{"arxiv_id": "2206.02146", "title": "VRT: A Video Restoration Transformer"}
+]

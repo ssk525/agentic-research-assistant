@@ -1,0 +1,12 @@
+[
+	{"question": "What loss function does SRGAN introduce and why?", "expected_keywords": ["perceptual", "adversarial", "VGG"], "expected_tools": ["rag_search"]},
+	{"question": "How does ESRGAN improve over SRGAN architecturally?", "expected_keywords": ["RRDB", "residual-in-residual", "relativistic"], "expected_tools": ["rag_search"]},
+	{"question": "In what year was Real-ESRGAN published and on which dataset family does it focus?", "expected_keywords": ["2021", "synthetic", "blind"], "expected_tools": ["sql_query", "rag_search"]},
+	{"question": "What is the key idea behind frame-recurrent video super-resolution (FRVSR)?", "expected_keywords": ["recurrent", "previous frame", "warping"], "expected_tools": ["rag_search"]},
+	{"question": "Compare BasicVSR and BasicVSR++ in terms of propagation strategy.", "expected_keywords": ["bidirectional", "second-order", "alignment"], "expected_tools": ["rag_search"]},
+	{"question": "Which SR papers use a Transformer backbone?", "expected_keywords": ["SwinIR", "HAT", "VRT"], "expected_tools": ["sql_query", "rag_search"]},
+	{"question": "What benchmark dataset is Set5 and how is it typically used?", "expected_keywords": ["5 images", "evaluation", "PSNR", "SSIM"], "expected_tools": ["rag_search"]},
+	{"question": "How does RCAN's channel attention mechanism work?", "expected_keywords": ["squeeze", "excitation", "global pooling"], "expected_tools": ["rag_search"]},
+	{"question": "What are recent (2024+) developments in diffusion-based super-resolution?", "expected_keywords": ["diffusion", "2024"], "expected_tools": ["web_search"]},
+	{"question": "What is the latency tradeoff of using Transformers vs CNNs for real-time SR on edge devices?", "expected_keywords": ["FLOPs", "inference", "latency"], "expected_tools": ["rag_search", "web_search"]}
+]
