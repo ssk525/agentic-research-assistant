@@ -6,7 +6,7 @@ langchain-chroma==0.1.4
 langgraph==0.2.45
 chromadb==0.5.18
 psycopg2-binary==2.9.10
-sqlalchemy==2.0.36
+sqlalchemy==2.0.35
 pydantic==2.9.2
 pydantic-settings==2.6.1
 streamlit==1.40.1
