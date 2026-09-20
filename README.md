@@ -4,7 +4,7 @@ Production-grade multi-agent research system built on **LangGraph**.
 A Planner / Worker / Critic loop with RAG, SQL, and web-search tools, optional
 Langfuse observability, and a Ragas eval suite.
 
-[Live demo](https://your-demo-url) - [Langfuse traces](https://your-langfuse-dashboard) - [60s Loom](https://loom-url)
+Run locally with Docker Compose (see Quickstart). Optional Langfuse tracing when `LANGFUSE_*` keys are set.
 
 ## What it does
 
